@@ -9,3 +9,9 @@
 - Make Sure to Install gcc and make
 - Run ```make``` command to compile, ```make run``` command to run and `make clean` to clean 
 test
+
+```
+cd hello.c
+gcc -o hello.exe hell.c
+./hello.exe
+```
